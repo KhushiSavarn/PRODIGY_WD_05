@@ -6,7 +6,7 @@ This Weather App provides weather data for any searched city and also for the us
 
 ## Demo 🎥
 
-- Deployed Link:- [Enjoy the Experience](https://kumarguddu609.github.io/Weather-App/)
+- Deployed Link:- [Enjoy the Experience](https://khushisavarn.github.io/PRODIGY_WD_05/)
 
 ## Tech Stack 💻
 
